@@ -11,5 +11,5 @@ class ProgrammingLanguage:
         return self.typing == "Dynamic"
 
     def __str__(self):
-        """return the information of the programming language"""
+        """return information of the programming language"""
         return f"{self.name},{self.typing} Typing, Reflection={self.reflection}First appeared in {self.year}"
