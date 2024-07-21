@@ -7,7 +7,7 @@
 
 naming: Choosing meaningful and descriptive names for variables, functions, and classes enhances code readability and maintainability.
 Formatting: Consistency in code formatting (indentation, spacing, line breaks) makes code easier to understand and follow. 
-Readable Functions**: Breaking down functions into smaller, single-responsibility units promotes code reusability and simplifies debugging.
+Readable Functions: Breaking down functions into smaller, single-responsibility units promotes code reusability and simplifies debugging.
 
 ## Useful Links
 
