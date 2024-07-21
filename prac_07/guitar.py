@@ -9,10 +9,5 @@ class Guitar:
         """return information of the guitar"""
         return f"{self.name} ({self.year}) : ${self.cost:,.2f}"
 
-    def get_age(self, current_year):
-        """calculate the age of the guitar"""
-        return current_year - self.year
-
-    def is_vintage(self, current_year):
-        """check if the guitar is vintage"""
-        return self.get_age(current_year) >= 50
+    def __lt__(self, other):
+        return self.year < other.year
