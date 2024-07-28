@@ -1,0 +1,6 @@
+Language,Typing,Reflection,Year,Pointer Arithmetic
+Java,Static,Yes,1995, False
+Python,Dynamic,Yes,1991,True
+Visual Basic,Static,No,1991,False
+Ruby,Dynamic,Yes,1995,False
+C++,Static,No,1983,True
